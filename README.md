@@ -1,8 +1,6 @@
 
 # SystemCleaner
 
-## Overview
-
 SystemCleaner is a simple CLI application written in C# made to help me perform various system maintenance tasks from a command line.
 
 ## Features
